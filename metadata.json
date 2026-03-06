@@ -1,0 +1,5 @@
+{
+  "name": "FabricSketch AI",
+  "description": "Professional fashion design tool to generate flat sketches with custom fabric textures using Gemini AI.",
+  "requestFramePermissions": []
+}
